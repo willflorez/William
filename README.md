@@ -1,7 +1,19 @@
 # William
 sobre mi
 # 💫 About Me:
-adelanto el proyecto individual de mi carrera de Data Science en Henry
+Me considero una persona digna de toda confianza, entrego de mi todo aquello que haga crecer a quienes me rodean, siempre tengo una voz de aliento para quien la necesita, me gusta entregar frases de pequeña sabiduría que inspire a los demás, estoy convencido que estoy en el mundo para hacer un mejor lugar de él. Disfruto trabajar con equipos multi disciplinarios, porque el aprendizaje es enorme, entrego mi conocimiento, de esa manera al repetir lo que ya sé, refuerzo mis habilidades y descubro nuevas maneras de llegar a las personas.
+
+¿Quién soy?
+
+Soy un hombre que destaca por valores como : adaptabilidad, análisis de problemas, autodidacta, autonomía, curiosidad, comunicación eficaz, tenacidad, resolución de problemas y empatía. Me han sido muy útiles en mi desarrollo profesional y también en mi vida diaria. Cada circunstancia difícil que he atravesado me ha enseñado el valor de nunca tocar la campana de la rendición y que vale la pena luchar por mis sueños y pagar el precio con disciplina y esfuerzo.
+
+¿Qué hago?
+
+Viajo por la vida plenamente y me motiva dibujar una sonrisa en el rostro de las personas que comparten conmigo, decido vivir mi vida como si estuviera llena de pequeños milagros a cada instante. ¡Soy un hombre feliz! Por otra parte destaco por mi capacidad de encontrar patrones en datos, hallo soluciones con determinación sin importar el tiempo que tome. Me encantan las bases de datos y disfruto descubriendo la historia que tienen que contarme.
+
+¿Qué busco?
+
+Con todo mi corazón deseo entregar soluciones inteligentes y basadas en datos para las organizaciones que me contraten, me gusta verlas crecer y alcanzar el sueño que sus socios tuvieron al crearlas. Deseo hacer parte de una compañía de puertas abiertas donde se valore la idea de sus colaboradores y donde exista la disposición de entregarme los recursos necesarios para implementar nuevas tecnologías en pro del mejoramiento del tratamiento de la información. Que crea en mi y apueste por mi talento, yo en cambio dedicaré todo mi esfuerzo y potencial en crear un ambiente de trabajo fuera de lo común, siempre orientado a los objetivos de la organización.
 
 
 ## 🌐 Socials:
