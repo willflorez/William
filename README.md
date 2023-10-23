@@ -1,7 +1,7 @@
 # William
 sobre mi
 # 💫 About Me:
-adelanto el poryecto individual de mi carrera de Data Science en Henry
+adelanto el proyecto individual de mi carrera de Data Science en Henry
 
 
 ## 🌐 Socials:
